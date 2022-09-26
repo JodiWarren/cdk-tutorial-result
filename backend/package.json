@@ -14,7 +14,7 @@
     "@aws-cdk/assert": "1.46.0",
     "@types/jest": "^26.0.0",
     "@types/node": "10.17.5",
-    "aws-cdk": "1.46.0",
+    "aws-cdk": "1.174.0",
     "aws-sdk": "^2.701.0",
     "ts-node": "^8.1.0",
     "typescript": "~3.7.2"
